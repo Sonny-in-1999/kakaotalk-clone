@@ -16,6 +16,11 @@
     align-items: flex-end;
 }
 
+.user-component__column:last-child img {
+    width: 30px;
+    height: 30px;
+}
+
 .user-component__avatar{
     width:70px;
     height: 70px;
