@@ -1,3 +1,1 @@
-# Kokoa Clone 2020 Update
-
-HTML & CSS are so much fun!
+카카오톡 UI를 따라 만들면서 Vanilla HTML과 CSS를 복습
